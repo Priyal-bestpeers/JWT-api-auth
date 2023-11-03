@@ -1,6 +1,3 @@
-Sure, here is the content organized into a README.md file:
-
-```markdown
 # Authentication with JWT in Rails: A Comprehensive Guide
 
 ## Introduction
@@ -141,5 +138,3 @@ Implementing user authentication with JWT in a Ruby on Rails application can gre
 
 By following these best practices, you can ensure that your application remains secure and provides a seamless experience for your users.
 ```
-
-Please replace the placeholder comments (`# ...`) with your actual code for generating JWT, authentication, and any other implementation details. This README file provides a structured guide for implementing JWT-based authentication in a Ruby on Rails application.
