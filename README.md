@@ -137,4 +137,4 @@ end
 Implementing user authentication with JWT in a Ruby on Rails application can greatly enhance security and user access control. This guide has outlined the key components and steps to integrate JWT-based authentication into your Rails project. Remember to handle token generation, user registration, and secure access to protected routes.
 
 By following these best practices, you can ensure that your application remains secure and provides a seamless experience for your users.
-```
+
